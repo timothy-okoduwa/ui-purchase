@@ -1,0 +1,46 @@
+@media screen and (max-width: 768px){
+    .gistss{
+        display: flex;
+        justify-content: center;
+      flex-wrap: wrap;
+      }
+    .figman{
+        font-family: 'Work Sans' !important;
+      font-style: normal !important;
+      font-weight: 700 !important;
+      font-size: 30px !important;
+      text-align: center !important;
+      color: #FFFFFF !important;
+      line-height: 50px !important;
+      }
+      .doneck{
+        font-family: 'Work Sans' !important;
+      font-style: normal !important;
+      font-weight: 400 !important;
+      font-size: 16px !important;
+      text-align: center !important;
+      color: #FFFFFF !important;
+      }
+      .me-2{
+        background-color:  #FFB62A !important;
+        margin-right: 15px !important;
+        font-family: 'Work Sans' !important;
+     font-style: normal !important;
+     font-weight: 500 !important;
+     font-size: 20px !important;
+     text-align: center !important;
+     border-radius: 5px !important;
+     color: #0F0E1F !important;
+       }
+       .me-33{
+         background-color:  #ffffff00 !important;
+         margin-right: 15px !important;
+         font-family: 'Work Sans' !important;
+      font-style: normal !important;
+      font-weight: 500 !important;
+      font-size: 20px !important;
+      text-align: center !important;
+      border-radius: 5px !important;
+      color: #ffffff !important;
+       }
+}
